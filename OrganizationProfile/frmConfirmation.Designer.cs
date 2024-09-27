@@ -53,7 +53,6 @@
             this.lblStudentNo.Size = new System.Drawing.Size(44, 16);
             this.lblStudentNo.TabIndex = 0;
             this.lblStudentNo.Text = "label1";
-            this.lblStudentNo.Click += new System.EventHandler(this.lblStudentNo_Click);
             // 
             // lblName
             // 
@@ -118,7 +117,6 @@
             this.btnSubmit.TabIndex = 7;
             this.btnSubmit.Text = "Submit";
             this.btnSubmit.UseVisualStyleBackColor = false;
-            this.btnSubmit.Click += new System.EventHandler(this.btnSubmit_Click);
             // 
             // label1
             // 

@@ -15,7 +15,7 @@ namespace OrganizationProfile
         public static string SetBirthday = "";
         public static string SetFullName = "";
         
-
+        
         public static object SetAge { get; internal set; }
     }
 }
